@@ -1,0 +1,10 @@
+#ifndef __DEFINES_H__
+#define __DEFINES_H__
+
+#define TIME_SPLASH_SCENE 1
+#define TRANSITION_TIME 0.001
+
+#define ASTEROID_COLISION_BITMASK 2
+#define ROCKET_COLISION_BITMASK 1
+
+#endif // __HELLOWORLD_SCENE_H__
